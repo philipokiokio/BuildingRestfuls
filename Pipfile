@@ -7,6 +7,10 @@ name = "pypi"
 django = "*"
 djangorestframework = "*"
 psycopg2-binary = "*"
+django-filter = "*"
+django-crispy-forms = "*"
+coverage = "*"
+django-nose = "*"
 
 [dev-packages]
 
